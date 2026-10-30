@@ -185,14 +185,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "full-calendar-remastered:Open Full Calendar": false,
-      "full-calendar-remastered:FCR Command": false,
-      "full-calendar-remastered:Open calendar agent": false
+      "bases:Create new base": false
     }
   },
-  "active": "40ccf23b3d58ed4f",
+  "active": "ffbc6bbeaaacc355",
   "lastOpenFiles": [
+    "Untitled",
     "SDL3-wiki/SDL3/QuickReference.md",
     "SDL3-wiki/SDL3/QuickReferenceNoUnicode.md",
     "index.md",
@@ -219,7 +217,6 @@
     "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_COUNT.md",
     "SDL3-wiki/SDL3/SDL_FunctionPointer.md",
     "SDL3-wiki/SDL3/SDL_FormFactor.md",
-    "SDL3-wiki/SDL3/SDL_Folder.md",
     "SDL3-wiki/SDL3/README",
     "SDL3-wiki/SDL_rtf",
     "SDL3-wiki/SDL3_ttf",
