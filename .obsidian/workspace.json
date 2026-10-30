@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f890df86092f5e",
+        "id": "79a0cd39b025ccbc",
         "type": "tabs",
         "children": [
           {
-            "id": "e93bbae4bcaf7c8c",
+            "id": "62af63033fc6ed9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SDL3-wiki/SDL3/APIByCategory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "APIByCategory"
             }
           }
         ]
@@ -38,8 +42,8 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "API"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,12 +191,44 @@
       "full-calendar-remastered:Open calendar agent": false
     }
   },
-  "active": "e93bbae4bcaf7c8c",
+  "active": "62af63033fc6ed9d",
   "lastOpenFiles": [
     "WorkoutPlan.md",
-    "WorkoutPlan.md~",
-    "2026-10-26.md",
-    "Welcome.md",
-    "create a link.md"
+    "SDL-wiki/SDL2/CategoryMetal.md",
+    "SDL3-wiki",
+    "SDL-wiki/SDL2/APIByCategory.md",
+    "SDL-wiki/SDL_rtf/SDL_RTF_VERSION_ATLEAST.md",
+    "SDL-wiki/SDL_rtf/Undocumented.md",
+    "SDL-wiki/SDL_rtf/SDL_RTF_VERSION.md",
+    "SDL-wiki/SDL_rtf/SDL_RTF_MAJOR_VERSION.md",
+    "SDL-wiki/SDL_rtf/RTF_Version.md",
+    "SDL-wiki/SDL_rtf/RTF_Render.md",
+    "SDL-wiki/SDL_rtf/RTF_Load_RW.md",
+    "SDL-wiki/SDL_rtf/RTF_Load_IO.md",
+    "SDL-wiki/SDL_rtf/RTF_Load.md",
+    "SDL-wiki/SDL_rtf/RTF_Linked_Version.md",
+    "SDL-wiki/SDL_rtf/RTF_GetSubject.md",
+    "SDL-wiki/SDL_rtf/RTF_GetTitle.md",
+    "SDL-wiki/SDL_rtf/RTF_GetHeight.md",
+    "SDL-wiki/SDL_rtf/RTF_GetAuthor.md",
+    "SDL-wiki/SDL_rtf/RTF_FreeContext.md",
+    "SDL-wiki/SDL_rtf/RTF_CreateContext.md",
+    "SDL-wiki/SDL_rtf/FrontPage.md",
+    "SDL-wiki/SDL_rtf/CategoryAPIMacro.md",
+    "SDL-wiki/SDL_rtf/CategoryAPIFunction.md",
+    "SDL-wiki/SDL_rtf/CategoryAPI.md",
+    "SDL-wiki/SDL_rtf",
+    "SDL-wiki/SDL3_ttf/_TTF_Font.md",
+    "SDL-wiki/SDL3_ttf/UNICODE_BOM_NATIVE.md",
+    "SDL-wiki/SDL3_ttf/Undocumented.md",
+    "SDL-wiki/SDL3_ttf",
+    "SDL-wiki/SDL3_net",
+    "SDL-wiki/SDL3_mixer",
+    "SDL-wiki/SDL3_image",
+    "SDL-wiki/SDL3/README",
+    "SDL-wiki/SDL3",
+    "SDL-wiki/SDL2_ttf",
+    "SDL-wiki/SDL2_net",
+    "Untitled.canvas"
   ]
 }
