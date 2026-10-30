@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d33eee637a654f6c",
+        "id": "269dc286ffe18ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "d487340b14537585",
+            "id": "40ccf23b3d58ed4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -39,7 +43,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "API"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
     "id": "6e34779d8303a4eb",
@@ -187,34 +191,35 @@
       "full-calendar-remastered:Open calendar agent": false
     }
   },
-  "active": "d487340b14537585",
+  "active": "40ccf23b3d58ed4f",
   "lastOpenFiles": [
-    "SDL3-wiki/SDL3/SDL_PROP_SURFACE_TONEMAP_OPERATOR_STRING.md",
-    "SDL3-wiki/SDL3/SDL_PROP_SURFACE_SDR_WHITE_POINT_FLOAT.md",
-    "SDL3-wiki/SDL3/SDL_PROP_SURFACE_ROTATION_FLOAT.md",
-    "SDL3-wiki/SDL3/SDL_PROP_SURFACE_HOTSPOT_Y_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_SURFACE_HOTSPOT_X_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_SURFACE_HDR_HEADROOM_FLOAT.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_WINDOW_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_SWAPCHAIN_IMAGE_COUNT_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_SURFACE_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_PRESENT_QUEUE_FAMILY_INDEX_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_PHYSICAL_DEVICE_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_INSTANCE_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_GRAPHICS_QUEUE_FAMILY_INDEX_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VULKAN_DEVICE_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_VSYNC_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_TEXTURE_WRAPPING_BOOLEAN.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_TEXTURE_FORMATS_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_SURFACE_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_SDR_WHITE_POINT_FLOAT.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_OUTPUT_COLORSPACE_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_NAME_STRING.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_METAL_DEVICE_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_METAL_COMMAND_QUEUE_POINTER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_MAX_TEXTURE_SIZE_NUMBER.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_HDR_HEADROOM_FLOAT.md",
-    "SDL3-wiki/SDL3/SDL_PROP_RENDERER_HDR_ENABLED_BOOLEAN.md",
+    "SDL3-wiki/SDL3/QuickReference.md",
+    "SDL3-wiki/SDL3/QuickReferenceNoUnicode.md",
+    "index.md",
+    "WorkoutPlan.md",
+    "Untitled.canvas",
+    "SDL3-wiki/SDL3/APIByCategory.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_TOUCHPAD.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_START.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_SOUTH.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_RIGHT_STICK.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_RIGHT_SHOULDER.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_RIGHT_PADDLE2.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_RIGHT_PADDLE1.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_NORTH.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BUTTON_MISC6.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_BINDTYPE_AXIS.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_RIGHT_TRIGGER.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_RIGHTY.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_RIGHTX.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_LEFT_TRIGGER.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_LEFTY.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_LEFTX.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_INVALID.md",
+    "SDL3-wiki/SDL3/SDL_GAMEPAD_AXIS_COUNT.md",
+    "SDL3-wiki/SDL3/SDL_FunctionPointer.md",
+    "SDL3-wiki/SDL3/SDL_FormFactor.md",
+    "SDL3-wiki/SDL3/SDL_Folder.md",
     "SDL3-wiki/SDL3/README",
     "SDL3-wiki/SDL_rtf",
     "SDL3-wiki/SDL3_ttf",
@@ -224,7 +229,6 @@
     "SDL3-wiki/SDL3",
     "SDL3-wiki/SDL2",
     "SDL3-wiki",
-    "SDL-wiki/SDL_rtf",
-    "Untitled.canvas"
+    "SDL-wiki/SDL_rtf"
   ]
 }
