@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79a0cd39b025ccbc",
+        "id": "d33eee637a654f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "62af63033fc6ed9d",
+            "id": "d487340b14537585",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDL3-wiki/SDL3/APIByCategory.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APIByCategory"
+              "title": "New tab"
             }
           }
         ]
@@ -191,8 +187,9 @@
       "full-calendar-remastered:Open calendar agent": false
     }
   },
-  "active": "62af63033fc6ed9d",
+  "active": "d487340b14537585",
   "lastOpenFiles": [
+    "SDL3-wiki/SDL3/APIByCategory.md",
     "WorkoutPlan.md",
     "SDL-wiki/SDL2/CategoryMetal.md",
     "SDL3-wiki",
@@ -220,7 +217,6 @@
     "SDL-wiki/SDL_rtf",
     "SDL-wiki/SDL3_ttf/_TTF_Font.md",
     "SDL-wiki/SDL3_ttf/UNICODE_BOM_NATIVE.md",
-    "SDL-wiki/SDL3_ttf/Undocumented.md",
     "SDL-wiki/SDL3_ttf",
     "SDL-wiki/SDL3_net",
     "SDL-wiki/SDL3_mixer",
